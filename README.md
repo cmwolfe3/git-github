@@ -1,2 +1,2 @@
 # git-github
-GitHub Training
+GitHub Training and Tutorial . 
